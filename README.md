@@ -1,15 +1,15 @@
 # Отчет по компьютерному практикуму № 13
 
 
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+    using System;
+    using System.Collections.Generic;
+    using System.Diagnostics;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
 
-namespace ConsoleApp13
-{
+    namespace ConsoleApp13
+    {
     internal class Program
     {
         static void Main(string[] args)
